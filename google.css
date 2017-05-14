@@ -1,0 +1,30 @@
+/* google homepage project */
+li{
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	font-family:Arial;
+	float:right;
+
+
+}
+a{
+	display: block;
+	padding: 10px;
+	background-color:transparent;
+	color: black;
+}
+a:hover{
+	text-decoration:underline;
+
+}
+input{
+	padding: 5px 10px 5px 10px;
+}
+input:hover{
+	border: 1px solid black;
+	text-decoration:strong;
+	font-family:Arial;
+}
